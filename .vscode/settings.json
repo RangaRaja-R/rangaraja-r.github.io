@@ -1,3 +1,6 @@
 {
-    "livePreview.defaultPreviewPath": "/.next/server/app/index.html"
+    "livePreview.defaultPreviewPath": "/.next/server/app/index.html",
+    "files.exclude": {
+        "**/.git": false
+    }
 }
